@@ -1,0 +1,39 @@
+@charset    "UTF-8";
+
+* { 
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    main {
+        width: 800px;
+        height: 400px;
+    }
+    section #img {
+        width: 40vw;
+        height: 70vh;
+        float: left;
+        background-size: cover;
+    }
+
+    section #formulario {
+        float: right;
+        width: 400px;
+    }
+
+    section #formulario h1 {
+        font-size: 2em;
+    }   
+
+    section #formulario p {
+        font-size: 1.2em;
+    }
+
+    section #formulario form {  
+        font-size: 1.2em;
+    }
+
+    
+}

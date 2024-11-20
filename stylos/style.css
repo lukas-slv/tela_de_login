@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body {
+    background: rgba(205, 211, 206, 0.753) ;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    
+    
+}
+
+.input {
+    background-color: rgba(255, 252, 252, 0.575);
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+   
+}   
+    
+main {
+    display: block;
+    position: relative;
+    background-color: rgb(154, 168, 168);
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+    
+}
+section h1  {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+section, h1, p {
+    text-align: center;
+}
+div#img {
+    background: url(../imgs/fumdo-form.jpg) no-repeat center center;
+    background-size: cover;
+    height: 30vh;
+    width: 40vw;
+
+}
+
+#formulario {
+    padding: 10px;
+    margin: 20px;
+}
+
+form .campo {
+    margin: 6px;
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+  text-align: left;
+  color: rgb(2, 2, 2);
+}
+
+
