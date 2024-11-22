@@ -41,7 +41,7 @@ p {
     margin-bottom: 30px;
 }
 section#login {
-    background-color: rgba(255, 255, 255, 0.829);
+    background-color: #ffffffd3;
     padding-bottom: 30px;
     width: 290px;
     height: 515px;
@@ -104,7 +104,7 @@ div.campo {
     margin: 20px 0;
     height: 1px;
     background:#025951 ;
-    background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%, #025951));
+    background: -webkit-gradient(linear, 0 0, 100% 0, from( #ffffff00), to(#ffffff00), color-stop(50%, #025951));
 }
 
 hr{
