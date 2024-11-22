@@ -1,6 +1,6 @@
-!-- Formulário de envio de dados --
+// oii, meu amor?--//
 
-Olá, Usuário! Seu login foi realizado com sucesso!
-Seu login foi:  <?php echo $_POST["login"]; ?>
-Sua senha foi:  <?php echo $_POST["senha"]; ?>
+__bom vdaa, só quero te lebrar que eu te amo muitoo!!--//
+__você é e sempre será o amor da minha vidaa--//
 
+E TUDO VAI DAR CERTO!!

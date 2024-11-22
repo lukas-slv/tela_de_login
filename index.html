@@ -8,6 +8,13 @@
     <link rel="stylesheet" href="stylos/style.css">
     <link rel="stylesheet" href="stylos/media-queres.css">
 </head>
+<!-- !-- Formulário de envio de dados --
+
+Olá, Usuário! Seu login foi realizado com sucesso!
+Seu login foi:  <?php echo $_POST["login"]; ?>
+Sua senha foi:  <?php echo $_POST["senha"]; ?> -->
+
+<div class="container">
 <body>
     <main>
         <section id="login">
@@ -32,6 +39,7 @@
                         <label class="label" for="isenha">Senha</label>
                     </div>
 
+                    <div class="linha"></div>
 
                     <div id="botao">
                         <input class="botao" type="submit" value="Entrar">
@@ -43,4 +51,5 @@
         </section>
     </main>
 </body>
+</div>
 </html>

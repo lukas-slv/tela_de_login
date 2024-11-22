@@ -8,9 +8,13 @@
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
 
-    body {
-        background-image: linear-gradient(90deg, #04332e, #053d38 100%);
-    }
+    body{
+        background-image: url(../imgs/images-1.jpeg) ;
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-position: left center; 
+     }
+     
 
     h1{
         font-size: 2em;
@@ -62,9 +66,12 @@
 }
 
 @media screen and (min-width: 992px) {
-    body {
-        background-image: linear-gradient(90deg,#0c423e , #04332e 100%)
-    }
+    body{
+        background-image: url(../imgs/images-1.jpeg) ;
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-position: left center; 
+     }
    
     h1{
         padding-top: 10px;
