@@ -43,7 +43,7 @@ p {
 section#login {
     background-color: rgba(255, 255, 255, 0.829);
     padding-bottom: 30px;
-    width: 280px;
+    width: 290px;
     height: 515px;
     border-radius: 20px;
     margin: auto;
@@ -62,7 +62,7 @@ section#login > div#img {
     background-position: center center;
     background-size: cover;
     height: 299px;
-    width: 280px;
+    width: 290px;
 } 
 
 section#login > div#formulario {
