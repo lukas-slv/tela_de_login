@@ -9,7 +9,7 @@
 @media screen and (min-width: 768px) and (max-width: 992px) {
 
     body {
-        background-image: linear-gradient(to top, #022c2b, #086155);
+        background-image: linear-gradient(90deg, #04332e, #053d38 100%);
     }
 
     h1{
@@ -63,10 +63,11 @@
 
 @media screen and (min-width: 992px) {
     body {
-        background-image: linear-gradient(to top #000000fd,90deg #021b18);
+        background-image: linear-gradient(90deg,#0c423e , #04332e 100%)
     }
    
     h1{
+        padding-top: 10px;
         font-size: 2.5em;
     }
     p{
@@ -80,7 +81,6 @@
     }
 
     section#login > div#formulario {
-        margin-top:20px;
         float: right;
         width: 60%;
         height: 100%;

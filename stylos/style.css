@@ -29,7 +29,7 @@ p {
 section#login {
     background-color: rgba(255, 255, 255, 0.829);
     padding-bottom: 30px;
-    width: 250px;
+    width: 280px;
     height: 515px;
     border-radius: 20px;
     margin: auto;
@@ -40,6 +40,7 @@ section#login {
     justify-content: space-around;
     align-items: bottom;
     text-align: center;
+    
 }
 
 section#login > div#img {
@@ -47,14 +48,14 @@ section#login > div#img {
     background-position: center center;
     background-size: cover;
     height: 299px;
-    width: 250px;
+    width: 280px;
 } 
 
 section#login > div#formulario {
     display: block;
     text-align: center;
-    
 }
+
 
     
  .material-icons {
